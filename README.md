@@ -13,5 +13,3 @@ https://github.com/overextended/ox_lib
 ox_target:
 
 https://github.com/overextended/ox_target
-
-esx_core
