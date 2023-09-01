@@ -21,7 +21,7 @@ Config.settings = {
         ["clip"] = "a_uncuff",
     },
     ["coords"] = {
-        ["crafting"] = vector4(), 
+        ["crafting"] = vector4(-1147.19, -2002.08, 13.18, 320.27), 
     },
 }
 
