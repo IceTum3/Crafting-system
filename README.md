@@ -6,10 +6,12 @@ Work only esx core
 
 dependency
 
-ox_lib,
-ox_target,
-esx_core
+ox_lib:
+
+https://github.com/overextended/ox_lib
+
+ox_target:
 
 https://github.com/overextended/ox_target
 
-https://github.com/overextended/ox_lib
+esx_core
