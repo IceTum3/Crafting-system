@@ -101,7 +101,7 @@ lib.callback.register('T-Crafting:Weapons', function(source, craft)
         lib.notify(source,{
             title = 'Crafting',
             position = 'center-right',
-            description = 'Sinulla ei ole tarvittavia ainesosia!',
+            description = 'Wrong items!',
             type = 'error'
         })
         return false
@@ -113,7 +113,7 @@ lib.callback.register('T-Crafting:Weapons', function(source, craft)
             lib.notify(source,{
                 title = 'Crafting',
                 position = 'center-right',
-                description = 'Sinulla ei ole tarvittavia ainesosia!',
+                description = 'Wrong items!',
                 type = 'error'
             })
             return false
