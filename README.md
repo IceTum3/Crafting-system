@@ -1,5 +1,11 @@
 # Crafting-system
 
+Work only esx core
+
+dependency
+ox_lib
+esx_core
+
 if you need add more crafting items example 
 
 Problem? contact me in discord Tum3#1482
